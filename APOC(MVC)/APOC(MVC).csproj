@@ -113,6 +113,29 @@
     <Content Include="App_Data\assets\js\morris\raphael-2.1.0.min.js" />
     <Content Include="Global.asax" />
     <Content Include="Image\2.jpg" />
+    <Content Include="Lib\assets\css\bootstrap.css" />
+    <Content Include="Lib\assets\css\custom-styles.css" />
+    <Content Include="Lib\assets\css\font-awesome.css" />
+    <Content Include="Lib\assets\css\font-awesome.min.css" />
+    <Content Include="Lib\assets\css\index.css" />
+    <Content Include="Lib\assets\css\LoginStyle.css" />
+    <Content Include="Lib\assets\css\new.css" />
+    <Content Include="Lib\assets\fonts\fontawesome-webfont.svg" />
+    <Content Include="Lib\assets\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Lib\assets\js\bootstrap-wysiwyg.js" />
+    <Content Include="Lib\assets\js\bootstrap.min.js" />
+    <Content Include="Lib\assets\js\custom-scripts.js" />
+    <Content Include="Lib\assets\js\custom.js" />
+    <Content Include="Lib\assets\js\dataTables\dataTables.bootstrap.css" />
+    <Content Include="Lib\assets\js\dataTables\dataTables.bootstrap.js" />
+    <Content Include="Lib\assets\js\dataTables\jquery.dataTables.js" />
+    <Content Include="Lib\assets\js\jquery-1.10.2.js" />
+    <Content Include="Lib\assets\js\jquery.hotkeys.js" />
+    <Content Include="Lib\assets\js\jquery.metisMenu.js" />
+    <Content Include="Lib\assets\js\jquery.validate.js" />
+    <Content Include="Lib\assets\js\morris\morris-0.4.3.min.css" />
+    <Content Include="Lib\assets\js\morris\morris.js" />
+    <Content Include="Lib\assets\js\morris\raphael-2.1.0.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -134,6 +157,15 @@
     <Content Include="App_Data\assets\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="App_Data\assets\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="App_Data\assets\fonts\glyphicons-halflings-regulard41d.eot" />
+    <Content Include="Lib\assets\fonts\fontawesome-webfont.eot" />
+    <Content Include="Lib\assets\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Lib\assets\fonts\fontawesome-webfont.woff" />
+    <Content Include="Lib\assets\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Lib\assets\fonts\FontAwesome.otf" />
+    <Content Include="Lib\assets\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Lib\assets\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Lib\assets\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Lib\assets\fonts\glyphicons-halflings-regulard41d.eot" />
     <None Include="packages.config" />
     <Content Include="Views\Login\Index.cshtml" />
     <None Include="Web.Debug.config">
