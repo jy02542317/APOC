@@ -27,12 +27,13 @@ namespace APOC_MVC_.Controllers
             UserBLL bo = new UserBLL();
             if (bo.Login(user))
             {
+                this.TempData["LoginSuccess"] = "";
                 return RedirectToAction("Index", "Home");
             }
             else
             {
                 this.TempData["LoginSuccess"] = "登陆失败!";
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("Index", "Login");
             }
         }
     }
